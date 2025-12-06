@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+.output-box {
+    background: #f5f5f5;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+input, button {
+    padding: 12px;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+h3 {
+    margin: 0;
+}
+
+.info-box {
+    background: #eef2f7;
+    padding: 15px;
+    border-left: 5px solid #4a90e2;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
