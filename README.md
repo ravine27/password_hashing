@@ -1,13 +1,15 @@
 # 🔐 Password Hashing Comparison Tool
 
-A web-based tool that demonstrates and compares different password hashing algorithms for educational purposes. Enter a password to see how various security algorithms process it and understand their relative security strengths.
+A web-based educational tool that demonstrates and compares different password hashing algorithms in real-time. Enter any password to see how various security algorithms process it and understand their relative security strengths.
+
+![Main Interface](https://github.com/ravine27/password_hashing/raw/main/resourses/table.png)
 
 ## 🎥 Video Demonstration
 
-Watch the demonstration video:  
-<video width="600" controls>
-  <source src="https://ravine27.github.io/password_hashing/resourses/how_its_work.mp4" type="video/mp4">
-</video>
+![Password Hashing Demo](https://github.com/ravine27/password_hashing/raw/main/resourses/how_its_work.gif)
+
+*Click the GIF above or [download the full video](https://github.com/ravine27/password_hashing/raw/main/resourses/how_its_work.mp4) to see the complete demonstration.*
+
 ## ✨ Features
 
 - **Compare 5 Hashing Algorithms**: Argon2, bcrypt, PBKDF2, scrypt, and SHA-256
@@ -16,14 +18,19 @@ Watch the demonstration video:
 - **Educational Focus**: Detailed explanations of each algorithm
 - **Browser-based**: Works entirely in your web browser
 - **No Backend Required**: All processing happens client-side
+- **Error Handling**: Comprehensive input validation and user feedback
 
-## 📊 Algorithm Comparison
+## 📊 Screenshots
 
-![Comparison Table](https://github.com/ravine27/password_hashing/blob/main/resourses/table.png)
+### Main Comparison Interface
+![Algorithm Comparison Table](https://github.com/ravine27/password_hashing/raw/main/resourses/table.png)
+
+### Error Handling
+![Error Handling Example](https://github.com/ravine27/password_hashing/raw/main/resourses/error.png)
 
 ## 🚀 Quick Start
 
-1. **Clone the repository**
+### Method 1: Direct Browser Usage
+1. **Download the files** or clone the repository:
    ```bash
    git clone https://github.com/ravine27/password_hashing.git
-
