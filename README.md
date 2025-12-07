@@ -22,8 +22,6 @@ A web-based educational tool that demonstrates and compares different password h
 
 ## 📊 Screenshots
 
-### Main Comparison Interface
-![Algorithm Comparison Table](https://github.com/ravine27/password_hashing/raw/main/resourses/table.png)
 
 ### Error Handling
 ![Error Handling Example](https://github.com/ravine27/password_hashing/raw/main/resourses/error.png)
@@ -34,3 +32,4 @@ A web-based educational tool that demonstrates and compares different password h
 1. **Download the files** or clone the repository:
    ```bash
    git clone https://github.com/ravine27/password_hashing.git
+
