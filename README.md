@@ -128,37 +128,6 @@ Simply open the HTML file in your browser - no server or installation required!
 </div>
 
 
-## 🖼️ Media Gallery
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Preview</th>
-      <th>Description</th>
-      <th>Size</th>
-      <th>Link</th>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/ravine27/password_hashing/raw/main/resourses/table.png" width="150"></td>
-      <td>Main Interface</td>
-      <td>800×450</td>
-      <td><a href="https://github.com/ravine27/password_hashing/raw/main/resourses/table.png">View</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/ravine27/password_hashing/raw/main/resourses/error.png" width="150"></td>
-      <td>Error Handling</td>
-      <td>700×400</td>
-      <td><a href="https://github.com/ravine27/password_hashing/raw/main/resourses/error.png">View</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/ravine27/password_hashing/raw/main/resourses/how_its_work.gif" width="150"></td>
-      <td>Demo Animation</td>
-      <td>600×338</td>
-      <td><a href="https://github.com/ravine27/password_hashing/raw/main/resourses/how_its_work.gif">View</a></td>
-    </tr>
-  </table>
-</div>
-
 ## ⚙️ Technical Details
 
 <div align="center">
@@ -214,3 +183,4 @@ MIT License - Free for educational and personal use.
     <a href="https://github.com/ravine27/password_hashing/blob/main/resourses/how_its_work.mp4">📥 Download Demo</a>
   </p>
 </div>
+
