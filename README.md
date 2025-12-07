@@ -5,8 +5,9 @@ A web-based tool that demonstrates and compares different password hashing algor
 ## 🎥 Video Demonstration
 
 Watch the demonstration video:  
-[![Watch Demo Video](https://img.shields.io/badge/▶-Watch_Demo-blue)](https://github.com/ravine27/password_hashing/blob/main/resourses/how_its_work.mp4)
-
+<video width="600" controls>
+  <source src="https://ravine27.github.io/password_hashing/resourses/how_its_work.mp4" type="video/mp4">
+</video>
 ## ✨ Features
 
 - **Compare 5 Hashing Algorithms**: Argon2, bcrypt, PBKDF2, scrypt, and SHA-256
@@ -25,3 +26,4 @@ Watch the demonstration video:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ravine27/password_hashing.git
+
