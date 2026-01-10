@@ -1,4 +1,4 @@
-permalink: /index.html
+s
 # 🔐 Password Hashing Comparison Tool
 
 A web-based educational tool that demonstrates and compares different password hashing algorithms in real-time. Enter any password to see how various security algorithms process it and understand their relative security strengths.
@@ -184,5 +184,6 @@ MIT License - Free for educational and personal use.
     <a href="https://github.com/ravine27/password_hashing/blob/main/resourses/how_its_work.mp4">📥 Download Demo</a>
   </p>
 </div>
+
 
 
