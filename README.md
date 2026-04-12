@@ -5,7 +5,7 @@ A web-based educational tool that demonstrates and compares different password h
 <div align="center">
   <img src="https://github.com/ravine27/password_hashing/raw/main/resourses/table.png" alt="Main Interface" width="800">
   <br>
-  <em>Main comparison interface showing 5 different hashing algorithms</em>
+  <em>Main comparison interface showing 5 different effective hashing algorithms</em>
 </div>
 
 ## 🎥 Video Demonstration
